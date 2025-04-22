@@ -1,0 +1,8 @@
+Karan Mehta
+Backend Developer | Java, Spring Boot, PostgreSQL, Docker, Kubernetes
+
+• Developed microservices using Spring Boot and secured them with OAuth2.
+• Created and optimized relational schemas in PostgreSQL.
+• Packaged applications with Docker and deployed using Kubernetes on EKS.
+• Implemented API gateways and service discovery with Spring Cloud.
+• Familiar with pgvector for semantic search and vector storage.

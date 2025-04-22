@@ -1,0 +1,8 @@
+Carlos Martinez
+Machine Learning Engineer | Python, Scikit-learn, TensorFlow, MLOps
+
+• Built predictive models using Scikit-learn and XGBoost.
+• Deployed TensorFlow models into production with Flask REST APIs.
+• Designed data pipelines and preprocessing routines.
+• Experience with MLOps tools like MLflow and DVC.
+• Applied NLP techniques to extract insights from unstructured text data.

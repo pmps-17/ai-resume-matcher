@@ -1,0 +1,8 @@
+Sneha Reddy
+AI & DevOps Engineer | Python, FastAPI, MongoDB, Docker, Jenkins
+
+• Deployed AI models via FastAPI REST services with MongoDB backend.
+• Built scalable Docker images and managed deployment with Jenkins pipelines.
+• Implemented RAG architecture using Chroma DB and Sentence-Transformers.
+• Logged system telemetry and performance metrics using Prometheus + Grafana.
+• Applied version control and rollout strategies for model updates.

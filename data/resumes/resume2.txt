@@ -1,0 +1,8 @@
+Priya Nair
+Data Analyst | Python, Pandas, SQL, Power BI, Tableau
+
+• Analyzed large datasets using Pandas and SQL to identify business insights.
+• Built automated dashboards using Power BI and Tableau.
+• Conducted A/B testing and statistical analysis for product improvements.
+• Cleaned and transformed raw data from multiple sources.
+• Delivered presentations to stakeholders with visual storytelling.

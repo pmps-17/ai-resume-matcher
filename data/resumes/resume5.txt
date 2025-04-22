@@ -1,0 +1,8 @@
+John Doe
+Full Stack Developer | React, Node.js, MongoDB, AWS
+
+• Developed responsive web applications using React.js and Redux.
+• Built RESTful APIs using Node.js and Express.
+• Integrated MongoDB for data storage and managed user authentication.
+• Deployed applications on AWS EC2 and managed S3 for static asset delivery.
+• Collaborated in Agile teams and used Git for version control.

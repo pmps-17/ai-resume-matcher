@@ -1,0 +1,8 @@
+Aisha Patel
+Backend Software Engineer | Python, Django, PostgreSQL, Microservices
+
+• Designed and maintained scalable REST APIs with Django.
+• Implemented PostgreSQL schemas and optimized complex queries.
+• Built microservices communicating over RabbitMQ.
+• Experience with Docker and container orchestration with Kubernetes.
+• Worked on CI/CD pipelines using Jenkins and GitHub Actions.

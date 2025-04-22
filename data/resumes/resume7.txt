@@ -1,0 +1,8 @@
+Jason Taylor
+ML-Focused Frontend Developer | React, Redux, Node.js, Flask, TensorFlow
+
+• Built a real-time resume filtering UI with React and Redux.
+• Integrated backend ML models served via Flask and TensorFlow Serving.
+• Used WebSockets to display live AI-based matching scores.
+• Developed CI/CD pipelines with GitHub Actions and Docker.
+• Worked closely with the AI team to integrate NLP-based resume ranking.

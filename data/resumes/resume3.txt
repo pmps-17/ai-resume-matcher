@@ -1,0 +1,8 @@
+Mark Lee
+Frontend Engineer | Angular, TypeScript, HTML, CSS, Bootstrap
+
+• Created dynamic and responsive user interfaces using Angular.
+• Implemented state management with NgRx.
+• Ensured cross-browser compatibility and performance optimization.
+• Collaborated with designers to translate mockups into functional components.
+• Integrated REST APIs for dynamic content loading.

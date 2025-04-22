@@ -1,0 +1,8 @@
+Anjali Verma
+Full Stack Developer | Python, React, FastAPI, Chroma DB
+
+• Built end-to-end AI-powered applications using RAG architecture.
+• Developed frontend dashboards using React.js and Tailwind CSS.
+• Created scalable APIs with FastAPI and integrated Chroma DB for semantic search.
+• Used OpenAI API and LangChain for intelligent assistant features.
+• Deployed applications on AWS EC2 and used Docker for containerization.

@@ -1,0 +1,8 @@
+Sofia Gomez
+AI Engineer | Python, LangChain, FAISS, Streamlit, OpenAI API
+
+• Designed Retrieval-Augmented Generation (RAG) systems using LangChain.
+• Indexed documents with FAISS for fast vector similarity search.
+• Integrated OpenAI GPT-4 for contextual Q&A over internal data.
+• Built interactive apps using Streamlit and deployed to Hugging Face Spaces.
+• Fine-tuned prompt templates and embeddings for accuracy improvement.
