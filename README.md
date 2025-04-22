@@ -44,7 +44,7 @@ ai-resume-matcher/
 │   └── queries/              # Optional sample queries
 ├── tests/                    # Unit tests
 │   ├── test_embedder.py
-│   ├── test_query_engine.py
+│   ├── test_matcher_pipeline.py
 │   └── test_scorer.py
 ├── .gitignore
 ├── .env                      # Secret keys (excluded from Git)

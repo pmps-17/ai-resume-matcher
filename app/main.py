@@ -39,14 +39,18 @@ def main():
     # Indexing all resumes
     index_resumes()
 
-    # Ask for recruiter query
+    # Ask for recruiter query and number of desired profiles
     query = input("\nEnter job description or query:\n> ").strip()
+    top_k = int(input("\nEnter number of desired profiles:\n> "))
+
     if not query:
         print("No query entered, exiting.")
         return
+    if not top_k:
+        top_k = 3
 
     # Retrieve & score matches
-    matches = match_resumes(query)
+    matches = match_resumes(query, top_k)
 
     # Display top matches
     print(f"\n🔍 Top {len(matches)} Matches:\n")

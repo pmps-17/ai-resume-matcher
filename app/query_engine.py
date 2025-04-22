@@ -1,7 +1,7 @@
 from app.embedder import embed_text
 from app.chroma_loader import collection
 
-def query_resume(query_embedding, top_k = 3):
+def query_resume(query_embedding, top_k):
 
     # Getting resume matches from ChromaDB
 
