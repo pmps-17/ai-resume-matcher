@@ -30,29 +30,47 @@ Explainability - Added via LLM-generated match reasoning
 ## 3. Folder Structure & Design Patterns
 
 ai-resume-matcher/
-│
-├── app/                       # Core modules
-│   ├── __init__.py
-│   ├── embedder.py            # Embeds resume/query using Sentence-Transformers
-│   ├── chroma_loader.py       # Adds resume vectors to Chroma DB
-│   ├── query_engine.py        # Handles semantic search logic
-│   ├── scorer.py              # LLM-based scoring via OpenAI API
-│   ├── matcher_pipeline.py    # Full RAG pipeline
-│   └── main.py                # CLI runner
-│
-├── data/
-│   ├── resumes/               # Resume .txt files
-│   └── queries/               # Optional recruiter/job description queries
-│
-├── tests/                     # Unit tests
-│   ├── test_embedder.py
-│   ├── test_query_engine.py
-│   └── test_scorer.py
-│
-├── .gitignore                 # Ignore .env and other local files
-├── .env                       # Secret keys (not tracked in Git)
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project overview and documentation
+
+app/                       # Core modules
+
+__init__.py
+
+embedder.py            # Embeds resume/query using Sentence-Transformers
+
+chroma_loader.py       # Adds resume vectors to Chroma DB
+
+query_engine.py        # Handles semantic search logic
+
+scorer.py              # LLM-based scoring via OpenAI API
+
+matcher_pipeline.py    # Full RAG pipeline
+
+main.py                # CLI runner
+
+
+data/
+
+resumes/               # Resume .txt files
+
+queries/               # Optional recruiter/job description queries
+
+
+tests/                     # Unit tests
+
+test_embedder.py
+
+test_query_engine.py
+
+test_scorer.py
+
+
+.gitignore                 # Ignore .env and other local files
+
+.env                       # Secret keys (not tracked in Git)
+
+requirements.txt           # Python dependencies
+
+README.md                  # Project overview and documentation
 
 
 
